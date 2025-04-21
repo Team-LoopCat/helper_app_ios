@@ -1,0 +1,19 @@
+current directory: /Users/anseungmin/Desktop/Luciferinoah/distoma/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/anseungmin/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/anseungmin/Desktop/Luciferinoah/distoma/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240905-84043-8zug3k sitelibdir\=./.gem.20240905-84043-8zug3k clean
+
+current directory: /Users/anseungmin/Desktop/Luciferinoah/distoma/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240905-84043-8zug3k sitelibdir\=./.gem.20240905-84043-8zug3k
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/anseungmin/Desktop/Luciferinoah/distoma/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240905-84043-8zug3k sitelibdir\=./.gem.20240905-84043-8zug3k install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240905-84043-8zug3k
+
+current directory: /Users/anseungmin/Desktop/Luciferinoah/distoma/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240905-84043-8zug3k sitelibdir\=./.gem.20240905-84043-8zug3k clean
